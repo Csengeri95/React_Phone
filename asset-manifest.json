@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_Phone/static/css/main.d2435e36.css",
+    "main.js": "/React_Phone/static/js/main.bc416711.js",
+    "static/media/home2.jpg": "/React_Phone/static/media/home2.ad16416a446bd441b444.jpg",
+    "index.html": "/React_Phone/index.html",
+    "main.d2435e36.css.map": "/React_Phone/static/css/main.d2435e36.css.map",
+    "main.bc416711.js.map": "/React_Phone/static/js/main.bc416711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2435e36.css",
+    "static/js/main.bc416711.js"
+  ]
+}
